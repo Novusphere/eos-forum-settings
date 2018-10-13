@@ -1,0 +1,12 @@
+{
+    "list": [
+        { 
+            "name": "novusphereio (forum.novusphere.io)",
+            "endpoint": "Novusphere/eos-forum-mod"
+        },
+        {
+            "name": "rama3wi4o324 (safe-space.fun)",
+            "endpoint": "safespacefun/eos-forum-mod"
+        }
+    ]
+}
