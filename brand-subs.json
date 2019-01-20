@@ -23,6 +23,14 @@
         "token_symbol": "PIXEOS",
         "token_contract": "pixeos1token"
     },
+    "eoshash": {
+        "title": "Absolute Fairness",
+        "logo": "https://ndi.340wan.com/image/eoscrashplay-crash.png",
+        "icon": "https://ndi.340wan.com/image/eoscrashplay-crash.png",
+        "banner": "https://i.imgur.com/eLw0DQd.jpg",
+        "token_symbol": "HASH",
+        "token_contract": "eoshashcoins"
+    },    
     "eos": {
         "title": "EOS Community",
         "logo": "https://cdn.novusphere.io/static/eos3.svg",
