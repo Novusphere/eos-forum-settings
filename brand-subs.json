@@ -46,5 +46,13 @@
         "banner": "https://steemitimages.com/DQmWBAyqcW3GTJi3e65pzLcnMiAddAomTaXz7zwVmA19mM6/eosDAC.png",
         "token_symbol": "EOSDAC",
         "token_contract": "eosdactokens"
-    }    
+    },
+    "rovegas": {
+        "title": "Royal Online Vegas",
+        "logo": "https://ndi.340wan.com/image/eosvegascoin-mev.png",
+        "icon": "https://ndi.340wan.com/image/eosvegascoin-mev.png",
+        "banner": "https://cdn-images-1.medium.com/max/1200/1*Nm_BZrC1ydZX3nOBa3tpZw.png",
+        "token_symbol": "MEV",
+        "token_contract": "eosvegascoin"
+    }      
 }
