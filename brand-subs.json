@@ -3,7 +3,7 @@
         "title": "A decentralized forum",
         "logo": "https://cdn.novusphere.io/static/atmos.svg",
         "icon": "https://cdn.novusphere.io/static/atmos2.png",
-        "banner": "",
+        "banner": "https://i.imgur.com/w4CHzZ6.png",
         "token_symbol": "ATMOS",
         "token_contract": "novusphereio"
     },
