@@ -38,5 +38,13 @@
         "banner": "",
         "token_symbol": "EOS",
         "token_contract": "eosio.token"
-    }
+    },
+    "eosdac": {
+        "title": "The Community-Owned EOS Block Producer and DAC Enabler",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/eosdac.jpg",
+        "icon": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/eosdac.jpg",
+        "banner": "https://steemitimages.com/DQmWBAyqcW3GTJi3e65pzLcnMiAddAomTaXz7zwVmA19mM6/eosDAC.png",
+        "token_symbol": "EOSDAC",
+        "token_contract": "eosdactokens"
+    }    
 }
