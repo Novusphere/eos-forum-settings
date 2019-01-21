@@ -39,6 +39,14 @@
         "token_symbol": "EOS",
         "token_contract": "eosio.token"
     },
+    "anon-r-eos": {
+        "title": "EOS Reddit Community",
+        "logo": "https://cdn.novusphere.io/static/eos3.svg",
+        "icon": "https://cdn.novusphere.io/static/eos3.png",
+        "banner": "",
+        "token_symbol": "EOS",
+        "token_contract": "eosio.token"
+    },
     "eosdac": {
         "title": "The Community-Owned EOS Block Producer and DAC Enabler",
         "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/eosdac.jpg",
