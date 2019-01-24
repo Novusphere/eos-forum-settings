@@ -62,5 +62,13 @@
         "banner": "https://i.imgur.com/JL45b0T.jpg",
         "token_symbol": "MEV",
         "token_contract": "eosvegascoin"
-    }      
+    },
+    "test": {
+        "title": "For testing purposes",
+        "logo": "",
+        "icon": "",
+        "banner": "https://media.giphy.com/media/FEusT0d1MgF0ay0rT7/giphy.gif",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
