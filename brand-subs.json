@@ -102,5 +102,21 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    } 
+    },
+    "eosforce": {
+        "title": "",
+        "logo": "",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+    "worbli": {
+        "title": "Blockchain's financial district",
+        "logo": "https://miro.medium.com/max/2400/1*8LqCOymuRAzLp4SFhj-T_Q.png",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }     
 }
