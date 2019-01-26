@@ -67,8 +67,24 @@
         "title": "For testing purposes",
         "logo": "",
         "icon": "",
-        "banner": "https://media.giphy.com/media/FEusT0d1MgF0ay0rT7/giphy.gif",
+        "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "rex": {
+        "title": "For everything rex related",
+        "logo": "https://i.imgur.com/2VQutI7.png",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+    "anon-r-eos": {
+        "title": "For everything eos related",
+        "logo": "",
+        "icon": "",
+        "banner": "https://i.imgur.com/FjStDbX.jpg",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
