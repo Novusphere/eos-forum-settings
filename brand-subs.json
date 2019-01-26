@@ -43,7 +43,7 @@
         "title": "EOS Reddit Community",
         "logo": "https://cdn.novusphere.io/static/eos3.svg",
         "icon": "https://cdn.novusphere.io/static/eos3.png",
-        "banner": "",
+        "banner": "https://i.imgur.com/FjStDbX.jpg",
         "token_symbol": "EOS",
         "token_contract": "eosio.token"
     },
@@ -79,19 +79,11 @@
         "token_symbol": "",
         "token_contract": ""
     },
-    "anon-r-eos": {
-        "title": "For everything eos related",
-        "logo": "",
-        "icon": "",
-        "banner": "https://i.imgur.com/FjStDbX.jpg",
-        "token_symbol": "",
-        "token_contract": ""
-    },   
     "rex4all": {
         "title": "Community effort to push the rex4all proposal",
         "logo": "https://i.imgur.com/hFlkzHO.png",
         "icon": "",
-        "banner": ",
+        "banner": "",
         "token_symbol": "",
         "token_contract": ""
     }     
