@@ -23,6 +23,38 @@
         "token_symbol": "PIXEOS",
         "token_contract": "pixeos1token"
     },
+    "karma": {
+        "title": "Do good, earn Karma",
+        "logo": "https://ndi.340wan.com/image/therealkarma-karma.png",
+        "icon": "https://ndi.340wan.com/image/therealkarma-karma.png",
+        "banner": "",
+        "token_symbol": "KARMA",
+        "token_contract": "therealkarma"
+    },
+    "murmur": {
+        "title": "Microblogging, reimagined.",
+        "logo": "https://ndi.340wan.com/image/murmurtokens-mur.png",
+        "icon": "https://ndi.340wan.com/image/murmurtokens-mur.png",
+        "banner": "",
+        "token_symbol": "MUR",
+        "token_contract": "murmurtokens"
+    },
+    "nebula": {
+        "title": "",
+        "logo": "",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+    "everipedia": {
+        "title": "The encyclopedia of everything",
+        "logo": "https://ndi.340wan.com/image/everipediaiq-iq.png",
+        "icon": "https://ndi.340wan.com/image/everipediaiq-iq.png",
+        "banner": "",
+        "token_symbol": "IQ",
+        "token_contract": "everipediaiq"
+    },        
     "hirevibes": {
         "title": "The decentralised crypto-reward jobs platform",
         "logo": "https://ndi.340wan.com/image/hirevibeshvt-hvt.png",
