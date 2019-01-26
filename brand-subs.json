@@ -47,6 +47,14 @@
         "token_symbol": "",
         "token_contract": ""
     },
+    "dabble": {
+        "title": "Dabble.cafe",
+        "logo": "https://ndi.340wan.com/image/eoscafekorea-dab.png",
+        "icon": "https://ndi.340wan.com/image/eoscafekorea-dab.png",
+        "banner": "",
+        "token_symbol": "DAB",
+        "token_contract": "eoscafekorea"
+    },    
     "everipedia": {
         "title": "The encyclopedia of everything",
         "logo": "https://ndi.340wan.com/image/everipediaiq-iq.png",
