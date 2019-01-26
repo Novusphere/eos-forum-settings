@@ -126,5 +126,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }     
+    },     
+    "franceos": {
+        "title": "",
+        "logo": "https://www.franceos.fr/wp-content/uploads/2018/07/franceos-logo-256x256.png",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
