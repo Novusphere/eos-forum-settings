@@ -23,6 +23,14 @@
         "token_symbol": "PIXEOS",
         "token_contract": "pixeos1token"
     },
+    "hirevibes": {
+        "title": "The decentralised crypto-reward jobs platform",
+        "logo": "https://ndi.340wan.com/image/hirevibeshvt-hvt.png",
+        "icon": "https://ndi.340wan.com/image/hirevibeshvt-hvt.png",
+        "banner": "",
+        "token_symbol": "HVT",
+        "token_contract": "hirevibeshvt"
+    },    
     "eoshash": {
         "title": "Absolute Fairness",
         "logo": "https://ndi.340wan.com/image/eoshashcoins-hash.png",
