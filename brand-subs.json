@@ -198,5 +198,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "airdropsdac": {
+        "title": "",
+        "logo": "https://i.imgur.com/slFjjhH.png",
+        "icon": "https://i.imgur.com/slFjjhH.png",
+        "banner": "",
+        "token_symbol": "ZOS",
+        "token_contract": "zosdiscounts"
+    }      
 }
