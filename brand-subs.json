@@ -182,5 +182,13 @@
         "banner": "",
         "token_symbol": "POOR",
         "token_contract": "poormantoken"
-    }         
+    },
+    "newdex": {
+        "title": "NewDex Exchange",
+        "logo": "https://ndi.340wan.com/image/newdexissuer-ndx.png",
+        "icon": "https://ndi.340wan.com/image/newdexissuer-ndx.png",
+        "banner": "",
+        "token_symbol": "NDX",
+        "token_contract": "newdexissuer"
+    },    
 }
