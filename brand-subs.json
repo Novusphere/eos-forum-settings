@@ -199,6 +199,14 @@
         "token_symbol": "",
         "token_contract": ""
     },
+    "prospectors": {
+        "title": "The Massive Multiplayer Online Real-Time Economic Strategy",
+        "logo": "https://ndi.340wan.com/eos/prospectorsg-pgl.png",
+        "icon": "https://ndi.340wan.com/eos/prospectorsg-pgl.png",
+        "banner": "",
+        "token_symbol": "PGL",
+        "token_contract": "prospectorsg"
+    },    
     "airdropsdac": {
         "title": "",
         "logo": "https://i.imgur.com/slFjjhH.png",
