@@ -206,5 +206,13 @@
         "banner": "",
         "token_symbol": "ZOS",
         "token_contract": "zosdiscounts"
-    }      
+    },
+    "eoslynx": {
+        "title": "",
+        "logo": "https://i.imgur.com/ifbwqkV.png",
+        "icon": "https://i.imgur.com/ifbwqkV.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }        
 }
