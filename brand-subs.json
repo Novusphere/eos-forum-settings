@@ -230,5 +230,13 @@
         "banner": "",
         "token_symbol": "TRYBE",
         "token_contract": "trybenetwork"
-    }      
+    },
+    "boid": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/eos/boidcomtoken-boid.png",
+        "icon": "https://ndi.340wan.com/eos/boidcomtoken-boid.png",
+        "banner": "",
+        "token_symbol": "BOID",
+        "token_contract": "boidcomtoken"
+    }          
 }
