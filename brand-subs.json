@@ -246,5 +246,13 @@
         "banner": "https://i.imgur.com/j5LR95N.png",
         "token_symbol": "PTR",
         "token_contract": "patreostoken"
-    }        
+    },
+    "scatter": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/eos/ridlridlcoin-ridl.png",
+        "icon": "https://ndi.340wan.com/eos/ridlridlcoin-ridl.png",
+        "banner": "",
+        "token_symbol": "RIDL",
+        "token_contract": "ridlridlcoin"
+    }            
 }
