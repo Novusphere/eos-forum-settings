@@ -238,5 +238,13 @@
         "banner": "",
         "token_symbol": "BOID",
         "token_contract": "boidcomtoken"
-    }          
+    },
+    "patreos": {
+        "title": "",
+        "logo": "https://i.imgur.com/mZEp33b.png",
+        "icon": "https://i.imgur.com/mZEp33b.png",
+        "banner": "",
+        "token_symbol": "PTR",
+        "token_contract": "patreostoken"
+    }        
 }
