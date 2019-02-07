@@ -262,5 +262,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }
+    },
+    "lisbonmeetup": {
+        "title": "Choo Choo!",
+        "logo": "https://i.imgur.com/XEJn4mz.png",
+        "icon": "https://i.imgur.com/XEJn4mz.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
