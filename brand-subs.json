@@ -286,5 +286,13 @@
         "banner": "",
         "token_symbol": "EBTC",
         "token_contract": "bitpietokens"
-    }        
+    },
+    "travel": {
+        "title": "",
+        "logo": "https://cdn2.iconfinder.com/data/icons/location-map-simplicity/512/travel_agency-512.png",
+        "icon": "https://cdn2.iconfinder.com/data/icons/location-map-simplicity/512/travel_agency-512.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
