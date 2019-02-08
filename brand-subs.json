@@ -281,8 +281,8 @@
     },
     "ebtc": {
         "title": "Bitcoin pegged token on EOS",
-        "logo": "",
-        "icon": "",
+        "logo": "https://ndi.340wan.com/eos/bitpietokens-ebtc.png",
+        "icon": "https://ndi.340wan.com/eos/bitpietokens-ebtc.png",
         "banner": "",
         "token_symbol": "EBTC",
         "token_contract": "bitpietokens"
