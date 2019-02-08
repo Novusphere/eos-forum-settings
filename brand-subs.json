@@ -270,5 +270,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "atticlab": {
+        "title": "",
+        "logo": "https://cdn-images-1.medium.com/fit/c/75/75/1*hnIokpkIknvTOeR-brsX1g.png",
+        "icon": "https://cdn-images-1.medium.com/fit/c/75/75/1*hnIokpkIknvTOeR-brsX1g.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
