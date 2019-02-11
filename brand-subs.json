@@ -302,5 +302,13 @@
         "banner": "https://spee.ch/140c82fa688059eed72a329fbb89fd6ceb64abe4/correct-ratio.jpeg",
         "token_symbol": "UTG",
         "token_contract": "untowermain1"
-    }     
+    },
+     "infiniverse": {
+        "title": "The World's Digital Layer",
+        "logo": "https://ndi.340wan.com/eos/infinicoinio-inf.png",
+        "icon": "https://ndi.340wan.com/eos/infinicoinio-inf.png",
+        "banner": "",
+        "token_symbol": "INF",
+        "token_contract": "infinicoinio"
+    }
 }
