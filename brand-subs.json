@@ -310,5 +310,13 @@
         "banner": "",
         "token_symbol": "INF",
         "token_contract": "infinicoinio"
-    }
+    },
+     "anxio": {
+        "title": "",
+        "logo": "https://anox.io/images/logo-blue.svg",
+        "icon": "https://anox.io/images/logo-blue.svg",
+        "banner": "",
+        "token_symbol": "ANX",
+        "token_contract": "anoxanoxanox"
+    }    
 }
