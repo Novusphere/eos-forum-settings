@@ -318,5 +318,13 @@
         "banner": "",
         "token_symbol": "ANX",
         "token_contract": "anoxanoxanox"
-    }    
+    },
+     "eosvenezuela": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/image/cryptopesosc-pso.png",
+        "icon": "https://ndi.340wan.com/image/cryptopesosc-pso.png",
+        "banner": "",
+        "token_symbol": "PSO",
+        "token_contract": "cryptopesosc"
+    }        
 }
