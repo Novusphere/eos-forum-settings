@@ -334,5 +334,13 @@
         "banner": "",
         "token_symbol": "VOID",
         "token_contract": "onessusblock"
-    }            
+    },
+     "catchthefrog": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/image/frogfrogcoin-frog.png",
+        "icon": "https://ndi.340wan.com/image/frogfrogcoin-frog.png",
+        "banner": "",
+        "token_symbol": "FROG",
+        "token_contract": "frogfrogcoin"
+    }        
 }
