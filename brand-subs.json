@@ -342,5 +342,13 @@
         "banner": "",
         "token_symbol": "FROG",
         "token_contract": "frogfrogcoin"
-    }        
+    },
+     "steemit": {
+        "title": "Where social media meets cryptocurrency",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Steemit_New_Logo.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Steemit_New_Logo.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }      
 }
