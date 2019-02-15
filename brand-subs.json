@@ -351,6 +351,14 @@
         "token_symbol": "",
         "token_contract": ""
     },
+     "parsl": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/eos/parslseed123-seed.png",
+        "icon": "https://ndi.340wan.com/eos/parslseed123-seed.png",
+        "banner": "",
+        "token_symbol": "SEED",
+        "token_contract": "parslseed123"
+    },    
      "valentinesday": {
         "title": "Record your love forever on the Blockchain",
         "logo": "https://images.vexels.com/media/users/3/144097/isolated/preview/3dedcd235214cdde6b4e171fdbf66c9d-heart-icon-by-vexels.png",
