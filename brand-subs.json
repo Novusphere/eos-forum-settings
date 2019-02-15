@@ -358,5 +358,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }          
+    },
+     "bitcoin": {
+        "title": "Peer to Peer digital currency",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2000px-Bitcoin.svg.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2000px-Bitcoin.svg.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },    
 }
