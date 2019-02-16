@@ -382,5 +382,45 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }     
+    },
+     "teamgreymass": {
+        "title": "",
+        "logo": "https://greymass.com/greymass_logo_256X256.png",
+        "icon": "https://greymass.com/greymass_logo_256X256.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+     "eosswedenorg": {
+        "title": "",
+        "logo": "https://eossweden.se/wp-content/uploads/2018/06/Square-Leaf-Banner-Wt-bkg-256.png",
+        "icon": "https://eossweden.se/wp-content/uploads/2018/06/Square-Leaf-Banner-Wt-bkg-256.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+     "cryptolions1": {
+        "title": "",
+        "logo": "https://imgs.cryptolions.io/logo_256.png",
+        "icon": "https://imgs.cryptolions.io/logo_256.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+     "eostribeprod": {
+        "title": "",
+        "logo": "https://s3.amazonaws.com/eostribe/eos-tribe-logo-square-256px.png",
+        "icon": "https://s3.amazonaws.com/eostribe/eos-tribe-logo-square-256px.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+     "eoscanadacom": {
+        "title": "",
+        "logo": "https://www.eoscanada.com/hubfs/eos-canada-logo-square-256px.png",
+        "icon": "https://www.eoscanada.com/hubfs/eos-canada-logo-square-256px.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
