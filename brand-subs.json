@@ -422,5 +422,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+     "emanate": {
+        "title": "Technology for the future of music",
+        "logo": "https://s3-ap-southeast-2.amazonaws.com/emanate.live/airdrop/img/favicon.png",
+        "icon": "https://s3-ap-southeast-2.amazonaws.com/emanate.live/airdrop/img/favicon.png",
+        "banner": "",
+        "token_symbol": "EMT",
+        "token_contract": "emanateoneos"
+    }      
 }
