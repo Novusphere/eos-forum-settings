@@ -430,5 +430,13 @@
         "banner": "",
         "token_symbol": "EMT",
         "token_contract": "emanateoneos"
-    }      
+    },
+     "peos": {
+        "title": "",
+        "logo": "https://spee.ch/c/logoo.jpg",
+        "icon": "https://spee.ch/c/logoo.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }     
 }
