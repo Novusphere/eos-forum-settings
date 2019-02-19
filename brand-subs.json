@@ -438,5 +438,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }     
+    },
+     "meetone": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/eos/eosiomeetone-meetone.png",
+        "icon": "https://ndi.340wan.com/eos/eosiomeetone-meetone.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }      
 }
