@@ -446,5 +446,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }      
+    },
+     "bounties": {
+        "title": "",
+        "logo": "https://spee.ch/f/MesaggingLine-08-512.png",
+        "icon": "https://spee.ch/f/MesaggingLine-08-512.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }          
 }
