@@ -462,5 +462,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }
+    },
+    "liquiddapps": {
+        "title": "",
+        "logo": "https://spee.ch/7/BxrRkQ6v400x400.jpeg",
+        "icon": "https://spee.ch/7/BxrRkQ6v400x400.jpeg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
