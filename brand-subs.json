@@ -454,5 +454,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }          
+    },
+    "whaleshares": {
+        "title": "",
+        "logo": "https://spee.ch/d/3c6d93df736e77c4df4bbc3c89f532c5cbac1621.png",
+        "icon": "https://spee.ch/d/3c6d93df736e77c4df4bbc3c89f532c5cbac1621.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }
 }
