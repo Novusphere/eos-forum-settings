@@ -470,5 +470,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "oneplay": {
+        "title": "Blockchain Gambling Platform on the EOS Network",
+        "logo": "https://ndi.340wan.com/eos/oneplaytoken-one.png",
+        "icon": "https://ndi.340wan.com/eos/oneplaytoken-one.png",
+        "banner": "",
+        "token_symbol": "ONE",
+        "token_contract": "oneplaytoken"
+    }        
 }
