@@ -486,5 +486,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }           
+    },
+    "edna": {
+        "title": "",
+        "logo": "https://spee.ch/6/ednalogo-104x502x.png",
+        "icon": "https://spee.ch/6/ednalogo-104x502x.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
