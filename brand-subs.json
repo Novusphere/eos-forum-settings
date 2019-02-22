@@ -494,5 +494,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "eva": {
+        "title": "",
+        "logo": "https://spee.ch/5/logooo.jpg",
+        "icon": "https://spee.ch/5/logooo.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }     
 }
