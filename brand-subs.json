@@ -478,5 +478,13 @@
         "banner": "",
         "token_symbol": "ONE",
         "token_contract": "oneplaytoken"
-    }        
+    },
+    "sense": {
+        "title": "",
+        "logo": "https://spee.ch/d/sense-token-icon-1.png",
+        "icon": "https://spee.ch/d/sense-token-icon-1.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }           
 }
