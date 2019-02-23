@@ -502,5 +502,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }     
+    },
+    "effectai": {
+        "title": "A decentralized network for artifical intelligence",
+        "logo": "https://s3-eu-west-1.amazonaws.com/prd-effectai-website/wp-content/uploads/2019/02/14110343/logo-menu2.png",
+        "icon": "https://s3-eu-west-1.amazonaws.com/prd-effectai-website/wp-content/uploads/2019/02/14110343/logo-menu2.png",
+        "banner": "",
+        "token_symbol": "EFX",
+        "token_contract": ""
+    }    
 }
