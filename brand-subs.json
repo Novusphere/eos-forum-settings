@@ -510,5 +510,13 @@
         "banner": "",
         "token_symbol": "EFX",
         "token_contract": ""
+    },
+    "publyto": {
+        "title": "A decentralized network for artifical intelligence",
+        "logo": "https://www.publyto.io/img/logo.svg",
+        "icon": "https://www.publyto.io/img/logo.svg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
     }    
 }
