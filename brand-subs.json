@@ -518,5 +518,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "enumivo": {
+        "title": "Social Justice for all",
+        "logo": "https://enumivo.org/wp-content/themes/enumivo/assets/img/enumivo-logo-only.png",
+        "icon": "https://enumivo.org/wp-content/themes/enumivo/assets/img/enumivo-logo-only.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }        
 }
