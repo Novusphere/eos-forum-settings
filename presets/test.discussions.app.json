@@ -1,0 +1,25 @@
+{
+   "default_sub":"all",
+   "header_texts":[
+
+   ],
+   "storage":{
+      "eos_referendum":true,
+      "subscribed_subs":[
+         "all",
+         "novusphere",
+         "eos",
+         "anon-r-eos",
+         "anon-pol-econ"
+      ],
+      "moderation":{
+         "hide_spam_threads":true,
+         "mods":[
+            "Novusphere/eos-forum-mod"
+         ]
+      },
+      "settings":{
+         "theme":"https://eos-forum.org/static/css/theme/day.css"
+      }
+   }
+}
