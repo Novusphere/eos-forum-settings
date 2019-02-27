@@ -433,11 +433,11 @@
     },
      "peosone": {
         "title": "",
-        "logo": "https://spee.ch/c/logoo.jpg",
-        "icon": "https://spee.ch/c/logoo.jpg",
+        "logo": "https://ndi.340wan.com/eos/thepeostoken-peos.png",
+        "icon": "https://ndi.340wan.com/eos/thepeostoken-peos.png",
         "banner": "",
-        "token_symbol": "",
-        "token_contract": ""
+        "token_symbol": "PEOS",
+        "token_contract": "thepeostoken"
     },
      "meetone": {
         "title": "",
