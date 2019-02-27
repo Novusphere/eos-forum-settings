@@ -526,5 +526,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }        
+    }
+    "feedbacks": {
+        "title": "",
+        "logo": "https://spee.ch/4/421ed8e39e.svg",
+        "icon": "https://spee.ch/4/421ed8e39e.svg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
