@@ -89,8 +89,8 @@
     },
     "anon-r-eos": {
         "title": "EOS Reddit Community",
-        "logo": "https://cdn.novusphere.io/static/eos3.png",
-        "icon": "https://cdn.novusphere.io/static/eos3.png",
+        "logo": "https://spee.ch/6/eos3.png",
+        "icon": "https://spee.ch/6/eos3.png",
         "banner": "https://i.imgur.com/Xd9kqxu.jpg",
         "token_symbol": "EOS",
         "token_contract": "eosio.token"
