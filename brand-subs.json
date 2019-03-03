@@ -81,8 +81,8 @@
     },    
     "eos": {
         "title": "EOS Community",
-        "logo": "https://cdn.novusphere.io/static/eos3.svg",
-        "icon": "https://cdn.novusphere.io/static/eos3.svg",
+        "logo": "https://spee.ch/6/eos3.png",
+        "icon": "https://spee.ch/6/eos3.png",
         "banner": "https://i.imgur.com/Xd9kqxu.jpg",
         "token_symbol": "EOS",
         "token_contract": "eosio.token"
