@@ -542,5 +542,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "cypherglass": {
+        "title": "",
+        "logo": "https://www.cypherglass.com/Cypherglass_symbol_1024.png",
+        "icon": "https://www.cypherglass.com/Cypherglass_symbol_1024.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }     
 }
