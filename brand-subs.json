@@ -550,5 +550,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
+    },
+    "itamgames": {
+        "title": "ITAM is the world's leading blockchain mobile gaming platform built on top of EOS.",
+        "logo": "https://spee.ch/0/logoaoe.jpg",
+        "icon": "https://spee.ch/0/logoaoe.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
     }     
 }
