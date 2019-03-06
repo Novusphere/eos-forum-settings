@@ -566,5 +566,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }     
+    },
+    "eostorch": {
+        "title": "",
+        "logo": "https://spee.ch/3/torch.png",
+        "icon": "https://spee.ch/3/torch.png",
+        "banner": "",
+        "token_symbol": "TORCH",
+        "token_contract": "passthetorch"
+    }         
 }
