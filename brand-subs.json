@@ -558,5 +558,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
+    },
+    "platforms": {
+        "title": "",
+        "logo": "https://spee.ch/4/platforms.jpg",
+        "icon": "https://spee.ch/4/platforms.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
     }     
 }
