@@ -574,5 +574,13 @@
         "banner": "",
         "token_symbol": "TORCH",
         "token_contract": "passthetorch"
-    }         
+    },
+    "metalpackagingtoken": {
+        "title": "",
+        "logo": "https://spee.ch/e/IMG5888.jpeg",
+        "icon": "https://spee.ch/e/IMG5888.jpeg",
+        "banner": "",
+        "token_symbol": "MPT",
+        "token_contract": ""
+    }    
 }
