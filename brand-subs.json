@@ -146,7 +146,7 @@
     "telos": {
         "title": "Blockchain perfected",
         "logo": "https://i.imgur.com/xPgXVwp.png",
-        "icon": "",
+        "icon": "https://i.imgur.com/xPgXVwp.png",
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
@@ -162,7 +162,7 @@
     "worbli": {
         "title": "Blockchain's financial district",
         "logo": "https://miro.medium.com/max/2400/1*8LqCOymuRAzLp4SFhj-T_Q.png",
-        "icon": "",
+        "icon": "https://miro.medium.com/max/2400/1*8LqCOymuRAzLp4SFhj-T_Q.png",
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
@@ -581,6 +581,6 @@
         "icon": "https://spee.ch/e/IMG5888.jpeg",
         "banner": "",
         "token_symbol": "MPT",
-        "token_contract": ""
+        "token_contract": "metpacktoken"
     }    
 }
