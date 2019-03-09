@@ -582,5 +582,13 @@
         "banner": "",
         "token_symbol": "MPT",
         "token_contract": "metpacktoken"
-    }    
+    },
+    "diceone": {
+        "title": " Social Gaming Platform",
+        "logo": "https://pbs.twimg.com/profile_images/1072900881123692544/jcJqAEKd_400x400.jpg",
+        "icon": "https://pbs.twimg.com/profile_images/1072900881123692544/jcJqAEKd_400x400.jpg",
+        "banner": "",
+        "token_symbol": "DICE",
+        "token_contract": "betdicetoken"
+    }       
 }
