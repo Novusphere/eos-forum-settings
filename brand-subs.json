@@ -220,8 +220,8 @@
         "logo": "https://i.imgur.com/ifbwqkV.png",
         "icon": "https://i.imgur.com/ifbwqkV.png",
         "banner": "",
-        "token_symbol": "",
-        "token_contract": ""
+        "token_symbol": "LYNX",
+        "token_contract": "worktokenbvi"
     },
     "trybe": {
         "title": "A Cryptocurrency and Blockchain Knowledge Sharing Network",
