@@ -590,7 +590,7 @@
         "banner": "",
         "token_symbol": "DICE",
         "token_contract": "betdicetoken"
-    }
+    },
     "betking": {
         "title": "",
         "logo": "https://ndi.340wan.com/eos/betkingtoken-bkt.png",
