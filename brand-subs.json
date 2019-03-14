@@ -484,8 +484,8 @@
         "logo": "https://spee.ch/d/sense-token-icon-1.png",
         "icon": "https://spee.ch/d/sense-token-icon-1.png",
         "banner": "",
-        "token_symbol": "",
-        "token_contract": ""
+        "token_symbol": "SNS",
+        "token_contract": "sensegenesis"
     },
     "edna": {
         "title": "",
