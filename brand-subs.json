@@ -601,8 +601,8 @@
     },
     "eosnairobi": {
         "title": "",
-        "logo": "",
-        "icon": "",
+        "logo": "https://spee.ch/9/logonairobi.png",
+        "icon": "https://spee.ch/9/logonairobi.png",
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
