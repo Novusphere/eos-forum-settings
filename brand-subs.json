@@ -598,5 +598,13 @@
         "banner": "",
         "token_symbol": "BKT",
         "token_contract": "betkingtoken"
-    }
+    },
+    "eosnairobi": {
+        "title": "",
+        "logo": "",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
