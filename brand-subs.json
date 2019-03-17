@@ -606,5 +606,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "escapeteamgame": {
+        "title": "",
+        "logo": "https://spee.ch/4/escapeteamgamelogo.png",
+        "icon": "https://spee.ch/4/escapeteamgamelogo.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
