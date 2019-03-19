@@ -65,7 +65,8 @@
          "itamgames",
          "anoxio",
          "betking",
-         "sense"
+         "sense",
+         "metalpackagingtoken"
       ],
       "moderation":{
          "hide_spam_threads":true,
