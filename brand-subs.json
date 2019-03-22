@@ -614,5 +614,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }       
+    },
+    "eosfinex": {
+        "title": "",
+        "logo": "https://spee.ch/b/logoeosfinex.png",
+        "icon": "https://spee.ch/b/logoeosfinex.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }        
 }
