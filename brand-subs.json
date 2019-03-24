@@ -85,7 +85,8 @@
         "icon": "https://spee.ch/6/eos3.png",
         "banner": "https://i.imgur.com/Xd9kqxu.jpg",
         "token_symbol": "EOS",
-        "token_contract": "eosio.token"
+        "token_contract": "eosio.token",
+        "default_tip": "0.1"
     },
     "anon-r-eos": {
         "title": "EOS Reddit Community",
