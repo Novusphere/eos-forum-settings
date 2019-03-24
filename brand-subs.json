@@ -582,7 +582,7 @@
         "icon": "https://spee.ch/e/IMG5888.jpeg",
         "banner": "",
         "token_symbol": "MPT",
-        "token_contract": "metpacktoken"
+        "token_contract": "metpacktoken",
         "default_tip": "0.0001"        
     },
     "diceone": {
