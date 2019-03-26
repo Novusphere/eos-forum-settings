@@ -627,8 +627,8 @@
     },
     "stakemine": {
         "title": "Mine tokens by staking!",
-        "logo": "https://www.stakemine.io/static/media/stakemine.1383a33a.png",
-        "icon": "https://www.stakemine.io/static/media/stakemine.1383a33a.png",
+        "logo": "https://spee.ch/1/logostakemine.png",
+        "icon": "https://spee.ch/1/logostakemine.png",
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
