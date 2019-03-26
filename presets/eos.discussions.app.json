@@ -67,7 +67,8 @@
          "betking",
          "sense",
          "metalpackagingtoken",
-         "escapeteamgame"
+         "escapeteamgame",
+         "stakemine"
       ],
       "moderation":{
          "hide_spam_threads":true,
