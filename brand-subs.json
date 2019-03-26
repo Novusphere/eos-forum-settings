@@ -624,5 +624,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }        
+    },
+    "stakemine": {
+        "title": "Mine tokens by staking!",
+        "logo": "https://www.stakemine.io/static/media/stakemine.1383a33a.png",
+        "icon": "https://www.stakemine.io/static/media/stakemine.1383a33a.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }            
 }
