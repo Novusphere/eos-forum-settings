@@ -632,5 +632,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }            
+    },
+    "sprtshubio": {
+        "title": "Decentralized Sports for the world!",
+        "logo": "https://spee.ch/@bigbluewhale:7/logosprtshub.png",
+        "icon": "https://spee.ch/@bigbluewhale:7/logosprtshub.png",
+        "banner": "",
+        "token_symbol": "SHC",
+        "token_contract": "sprtshubcoin"
+    }    
 }
