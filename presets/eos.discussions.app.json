@@ -68,7 +68,8 @@
          "sense",
          "metalpackagingtoken",
          "escapeteamgame",
-         "stakemine"
+         "stakemine",
+         "eosnewyork"
       ],
       "moderation":{
          "hide_spam_threads":true,
