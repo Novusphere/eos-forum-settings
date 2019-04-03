@@ -648,5 +648,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "monereos": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/logomonereos.jpg",
+        "icon": "https://spee.ch/@bigbluewhale:7/logomonereos.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }     
 }
