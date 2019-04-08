@@ -656,5 +656,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }     
+    },
+    "dmail": {
+        "title": "",
+        "logo": "https://i.imgur.com/AEbd9jX.png",
+        "icon": "https://i.imgur.com/AEbd9jX.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }         
 }
