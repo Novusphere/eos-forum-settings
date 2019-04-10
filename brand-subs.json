@@ -664,5 +664,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }         
+    },
+    "dgaming": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/photo2019-04-1012-17-27.jpg",
+        "icon": "https://spee.ch/@bigbluewhale:7/photo2019-04-1012-17-27.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
