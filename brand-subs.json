@@ -39,10 +39,10 @@
         "token_symbol": "MUR",
         "token_contract": "murmurtokens"
     },
-    "nebula": {
-        "title": "",
-        "logo": "",
-        "icon": "",
+    "switcheo": {
+        "title": "The Preferred Exchange",
+        "logo": "https://cdn.steemitimages.com/DQmP38xxCLVbbpAa9nhWx6hgfGQrQ8MK8LdyhtQ2x9eUxyK/switcheo.png",
+        "icon": "https://cdn.steemitimages.com/DQmP38xxCLVbbpAa9nhWx6hgfGQrQ8MK8LdyhtQ2x9eUxyK/switcheo.png",
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
