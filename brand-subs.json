@@ -680,5 +680,13 @@
         "banner": "https://i.imgur.com/ELensgV.jpg",
         "token_symbol": "",
         "token_contract": ""
-    }         
+    },
+    "BEOS": {
+        "title": "",
+        "logo": "https://www.beos.world/images/footer-logo.svg",
+        "icon": "https://www.beos.world/images/footer-logo.svg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }             
 }
