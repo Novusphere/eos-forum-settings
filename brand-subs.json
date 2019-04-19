@@ -680,5 +680,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }             
+    },
+    "eosnation": {
+        "title": "More than a block producer",
+        "logo": "https://cdn.steemitimages.com/DQmXK63TgYdVPjgbb3vau15pzWVhdxkrApPLbUfP77i59CU/eosnation-1x1-black.png",
+        "icon": "https://cdn.steemitimages.com/DQmXK63TgYdVPjgbb3vau15pzWVhdxkrApPLbUfP77i59CU/eosnation-1x1-black.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }                          
 }
