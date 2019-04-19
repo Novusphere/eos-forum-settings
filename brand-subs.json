@@ -681,7 +681,7 @@
         "token_symbol": "",
         "token_contract": ""
     },
-    "BEOS": {
+    "beos": {
         "title": "",
         "logo": "https://www.beos.world/images/footer-logo.svg",
         "icon": "https://www.beos.world/images/footer-logo.svg",
