@@ -688,5 +688,21 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }                          
+    },
+    "switcheo": {
+        "title": "",
+        "logo": "https://i.imgur.com/6I3Q8bB.png",
+        "icon": "https://i.imgur.com/6I3Q8bB.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    },
+    "instar": {
+        "title": "",
+        "logo": "https://i.imgur.com/748dLEP.png",
+        "icon": "https://i.imgur.com/748dLEP.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
