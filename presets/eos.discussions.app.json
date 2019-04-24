@@ -74,7 +74,8 @@
          "diceone",
          "lumeos",
          "eosnation",
-         "eosnewyork"
+         "eosnewyork",
+         "instar"
       ],
       "moderation":{
          "hide_spam_threads":true,
