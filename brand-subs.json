@@ -704,5 +704,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }       
+    },
+    "UXfyre": {
+        "title": "UX that's Fyre",
+        "logo": "https://spee.ch/c/logoFyre.jpg",
+        "icon": "https://spee.ch/c/logoFyre.jpg",
+        "banner": "",
+        "token_symbol": "FYRE",
+        "token_contract": "uxfyretoken1"
+    }        
 }
