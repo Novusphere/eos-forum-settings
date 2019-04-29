@@ -712,5 +712,13 @@
         "banner": "",
         "token_symbol": "FYRE",
         "token_contract": "uxfyretoken1"
-    }        
+    },
+    "nineblox": {
+        "title": "",
+        "logo": "https://spee.ch/6/logonineblox.png",
+        "icon": "https://spee.ch/6/logonineblox.png",
+        "banner": "",
+        "token_symbol": "BLOX",
+        "token_contract": "ninebloxgame"
+    }    
 }
