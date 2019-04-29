@@ -720,5 +720,13 @@
         "banner": "",
         "token_symbol": "BLOX",
         "token_contract": "ninebloxgame"
-    }    
+    },
+    "mothereos": {
+        "title": "",
+        "logo": "https://spee.ch/8/logomothereos.jpg",
+        "icon": "https://spee.ch/8/logomothereos.jpg",
+        "banner": "",
+        "token_symbol": "MOM",
+        "token_contract": "mqxblljn4syn"
+    }      
 }
