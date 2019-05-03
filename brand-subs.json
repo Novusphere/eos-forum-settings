@@ -728,5 +728,13 @@
         "banner": "",
         "token_symbol": "MOM",
         "token_contract": "mqxblljn4syn"
-    }      
+    },
+    "crypt0snews": {
+        "title": "",
+        "logo": "https://spee.ch/7/logocrypt0.jpeg",
+        "icon": "https://spee.ch/7/logocrypt0.jpeg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }         
 }
