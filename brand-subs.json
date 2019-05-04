@@ -736,5 +736,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }         
+    },
+    "eoswritersio": {
+        "title": "EOSwriter",
+        "logo": "https://spee.ch/@bigbluewhale:7/EOSwriter-Site-Icon.png",
+        "icon": "https://spee.ch/@bigbluewhale:7/EOSwriter-Site-Icon.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }      
 }
