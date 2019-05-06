@@ -744,5 +744,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }      
+    },
+    "everythingeosio": {
+        "title": "",
+        "logo": "https://spee.ch/e/Asset-23x-8.png",
+        "icon": "https://spee.ch/e/Asset-23x-8.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }          
 }
