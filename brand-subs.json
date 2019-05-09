@@ -752,5 +752,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }          
+    },
+    "teameos": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/teameoslogo.jpg",
+        "icon": "https://spee.ch/@bigbluewhale:7/teameoslogo.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }    
 }
