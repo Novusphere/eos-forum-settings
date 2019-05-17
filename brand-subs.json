@@ -556,7 +556,7 @@
         "title": "",
         "logo": "https://spee.ch/3/torch.png",
         "icon": "https://spee.ch/3/torch.png",
-        "banner": "",
+        "banner": "https://svgshare.com/i/D3S.svg",
         "token_symbol": "TORCH",
         "token_contract": "passthetorch"
     },
