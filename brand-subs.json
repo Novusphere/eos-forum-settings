@@ -760,5 +760,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "pumlhealthio": {
+        "title": "Rewarding members for healthy activity and protecting movement data on the blockchain",
+        "logo": "https://spee.ch/2/PUMLlg.png",
+        "icon": "https://spee.ch/2/PUMLlg.png",
+        "banner": "",
+        "token_symbol": "PUML",
+        "token_contract": "pumlhealthio"
+    }     
 }
