@@ -768,5 +768,13 @@
         "banner": "",
         "token_symbol": "PUML",
         "token_contract": "pumlhealthio"
-    }     
+    },
+    "B1June": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/logob1june.jpg",
+        "icon": "https://spee.ch/@bigbluewhale:7/logob1june.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }       
 }
