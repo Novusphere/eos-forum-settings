@@ -776,5 +776,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }       
+    },
+    "Voice": {
+        "title": "Social As it Should Be",
+        "logo": "https://spee.ch/@bigbluewhale:7/logoou.jpeg",
+        "icon": "https://spee.ch/@bigbluewhale:7/logoou.jpeg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }             
 }
