@@ -82,7 +82,8 @@
          "eoswriterio",
          "teameos",
          "pumlhealthio",
-         "paytomat"
+         "paytomat",
+         "Voice"
       ],
       "moderation":{
          "hide_spam_threads":true,
