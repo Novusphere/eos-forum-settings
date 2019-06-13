@@ -784,5 +784,13 @@
         "banner": "https://spee.ch/@bigbluewhale:7/VoiceBanner.jpg",
         "token_symbol": "",
         "token_contract": ""
-    }             
+    },
+    "shipple": {
+        "title": "",
+        "logo": "",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "SHILL",
+        "token_contract": "mqxblljn4syn"
+    }       
 }
