@@ -678,8 +678,8 @@
         "logo": "https://cdn.steemitimages.com/DQmWGk4D33Cg7fRNwbDZnkEN42jnpu13a2A1UJHCLx3w8aR/pDMcrrlh_400x400.jpg",
         "icon": "https://cdn.steemitimages.com/DQmWGk4D33Cg7fRNwbDZnkEN42jnpu13a2A1UJHCLx3w8aR/pDMcrrlh_400x400.jpg",
         "banner": "https://spee.ch/@bigbluewhale:7/ama.gif",
-        "token_symbol": "",
-        "token_contract": ""
+        "token_symbol": "LUME",
+        "token_contract": "lumetokenctr"
     },
     "eosnation": {
         "title": "More than a block producer",
