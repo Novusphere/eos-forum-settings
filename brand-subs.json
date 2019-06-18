@@ -792,5 +792,13 @@
         "banner": "",
         "token_symbol": "SHIL",
         "token_contract": "mqxblljn4syn"
+    },
+    "libra": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/logolibra.png",
+        "icon": "",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
     }       
 }
