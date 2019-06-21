@@ -36,7 +36,6 @@
          "worbli",
          "newdex",
          "prospectors",
-         "patreos",
          "trybe",
          "karma",
          "general",
@@ -83,7 +82,8 @@
          "teameos",
          "pumlhealthio",
          "paytomat",
-         "Voice"
+         "Voice",
+         "uos"
       ],
       "moderation":{
          "hide_spam_threads":true,
