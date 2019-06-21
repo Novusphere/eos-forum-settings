@@ -240,13 +240,13 @@
         "token_symbol": "BOID",
         "token_contract": "boidcomtoken"
     },
-    "patreos": {
+    "uos": {
         "title": "",
-        "logo": "https://i.imgur.com/mZEp33b.png",
-        "icon": "https://i.imgur.com/mZEp33b.png",
-        "banner": "https://i.imgur.com/j5LR95N.png",
-        "token_symbol": "PATR",
-        "token_contract": "patreostoken"
+        "logo": "https://cdn.steemitimages.com/DQme9HgruuAMgGHEb5BdXBNhTLExfBuVT61DyLyaPuoE9Hj/image.png",
+        "icon": "https://cdn.steemitimages.com/DQme9HgruuAMgGHEb5BdXBNhTLExfBuVT61DyLyaPuoE9Hj/image.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
     },
     "scatter": {
         "title": "",
