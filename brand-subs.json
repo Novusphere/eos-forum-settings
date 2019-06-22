@@ -800,5 +800,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }       
+    },
+    "equilibrium": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/logoequilibrium.png",
+        "icon": "https://spee.ch/@bigbluewhale:7/logoequilibrium.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""
+    }        
 }
