@@ -83,7 +83,8 @@
          "pumlhealthio",
          "paytomat",
          "Voice",
-         "uos"
+         "uos",
+         "wombat"
       ],
       "moderation":{
          "hide_spam_threads":true,
