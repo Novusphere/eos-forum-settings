@@ -816,5 +816,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""
-    }    
+    },
+    "pizza": {
+        "title": "",
+        "logo": "https://i.imgur.com/lo3iqpQ.jpeg",
+        "icon": "https://i.imgur.com/lo3iqpQ.jpeg",
+        "banner": "",
+        "token_symbol": "PIZZA",
+        "token_contract": "pizzatotoken"
+    }        
 }
