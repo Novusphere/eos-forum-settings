@@ -824,5 +824,12 @@
         "banner": "",
         "token_symbol": "PIZZA",
         "token_contract": "pizzatotoken"
-    }        
+    },
+    "SAND": {
+        "title": "",
+        "logo": "https://spee.ch/e/city-seal-Blue-and-Gold-small-300x300.png",
+        "icon": "https://spee.ch/e/city-seal-Blue-and-Gold-small-300x300.png",
+        "banner": "",
+        "token_symbol": "SAND",
+        "token_contract": "sandiegocoin"    
 }
