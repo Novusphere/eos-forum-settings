@@ -825,7 +825,7 @@
         "token_symbol": "PIZZA",
         "token_contract": "pizzatotoken"
     },
-    "SAND": {
+    "sand": {
         "title": "",
         "logo": "https://spee.ch/e/city-seal-Blue-and-Gold-small-300x300.png",
         "icon": "https://spee.ch/e/city-seal-Blue-and-Gold-small-300x300.png",
