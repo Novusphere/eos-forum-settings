@@ -832,5 +832,13 @@
         "banner": "",
         "token_symbol": "SAND",
         "token_contract": "sandiegocoin"    
+    },
+    "HongKong": {
+        "title": "",
+        "logo": "https://spee.ch/e/img96705.png",
+        "icon": "https://spee.ch/e/img96705.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""  
     }
 }
