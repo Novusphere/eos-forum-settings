@@ -840,5 +840,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""  
+    },
+    "BlockBase": {
+        "title": "",
+        "logo": "http://www.blockbase.network/wp-content/uploads/2019/02/logo_blockbase_header_white.png",
+        "icon": "http://www.blockbase.network/wp-content/uploads/2019/02/logo_blockbase_header_white.png",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""  
     }
 }
