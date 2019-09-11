@@ -856,5 +856,13 @@
         "banner": "",
         "token_symbol": "XEC",
         "token_contract": "europe.chain"  
-    }
+    },
+    "SOV": {
+        "title": "",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/sov.png",
+        "icon": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/sov.png",
+        "banner": "",
+        "token_symbol": "SOV",
+        "token_contract": "sovmintofeos"  
+    }    
 }
