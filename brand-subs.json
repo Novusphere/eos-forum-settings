@@ -864,5 +864,13 @@
         "banner": "",
         "token_symbol": "SOV",
         "token_contract": "sovmintofeos"  
-    }    
+    },
+    "ultraio": {
+        "title": "",
+        "logo": "https://spee.ch/@bigbluewhale:7/iconultra.jpg",
+        "icon": "https://spee.ch/@bigbluewhale:7/iconultra.jpg",
+        "banner": "",
+        "token_symbol": "",
+        "token_contract": ""  
+    }        
 }
