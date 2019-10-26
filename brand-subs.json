@@ -872,5 +872,13 @@
         "banner": "",
         "token_symbol": "",
         "token_contract": ""  
-    }        
+    },
+    "challengedac": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/eos/challengedac-chl.png",
+        "icon": "https://ndi.340wan.com/eos/challengedac-chl.png",
+        "banner": "",
+        "token_symbol": "CHL",
+        "token_contract": "challengedac"  
+    }          
 }
