@@ -341,8 +341,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Steemit_New_Logo.png",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Steemit_New_Logo.png",
         "banner": "",
-        "token_symbol": "",
-        "token_contract": ""
+        "token_symbol": "STEEMP",
+        "token_contract": "steemoneosio"
     },
      "parsl": {
         "title": "",
@@ -525,8 +525,8 @@
         "logo": "https://spee.ch/5/steem-sign-2a02004c5ed4bbbae7600a370d34c18ea850de11f237815f2b6037745cf2db3a.png",
         "icon": "https://spee.ch/5/steem-sign-2a02004c5ed4bbbae7600a370d34c18ea850de11f237815f2b6037745cf2db3a.png",
         "banner": "",
-        "token_symbol": "",
-        "token_contract": ""
+        "token_symbol": "STEEMP",
+        "token_contract": "steemoneosio"
     },
     "cypherglass": {
         "title": "The Premier US-Based EOS Block Producer",
