@@ -846,8 +846,8 @@
         "logo": "http://www.blockbase.network/wp-content/uploads/2019/02/logo_blockbase_header_white.png",
         "icon": "http://www.blockbase.network/wp-content/uploads/2019/02/logo_blockbase_header_white.png",
         "banner": "",
-        "token_symbol": "",
-        "token_contract": ""  
+        "token_symbol": "BBT",
+        "token_contract": "blockbasetkn"  
     },
     "Europechain": {
         "title": "",
