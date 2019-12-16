@@ -880,5 +880,13 @@
         "banner": "",
         "token_symbol": "CHL",
         "token_contract": "challengedac"  
-    }          
+    },
+    "weedcash": {
+        "title": "",
+        "logo": "https://ndi.340wan.com/eos/weedcashntwk-weed.png",
+        "icon": "https://ndi.340wan.com/eos/weedcashntwk-weed.png",
+        "banner": "",
+        "token_symbol": "WEED",
+        "token_contract": "weedcashntwk"  
+    }            
 }
